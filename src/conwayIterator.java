@@ -1,16 +1,3 @@
-/*
- * conwayIterator
- *
- * 2/18/2013
- *
- * CS280-004 SPRING 2013
- *
- * Project 1: Conway's Game of Life
- *
- * Peter J Kurpiewski (pjk26)
- *
- */
- 
 import java.lang.*;
 
 public class conwayIterator {

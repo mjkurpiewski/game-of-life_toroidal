@@ -1,5 +1,3 @@
-import java.lang.*;
-
 public class conwayIterator {
 
 	//Read through constructor, mirrors what the current board is before changes.

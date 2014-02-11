@@ -1,15 +1,3 @@
-/*
- * conwayBoard
- *
- * 2/18/2013
- *
- * CS280-004 SPRING 2013
- *
- * Project 1: Conway's Game of Life
- *
- * Peter J Kurpiewski (pjk26)
- */
-
 public class conwayBoard {
 
 	//Declare variables for live/dead state characters
